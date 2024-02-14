@@ -1,3 +1,4 @@
+password: test123
 # Run Book Template
 
 A Run Book / Operations Manual template for modern software systems.
